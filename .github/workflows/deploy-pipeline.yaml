@@ -1,4 +1,4 @@
-name: Deploy Lambda Function
+name: Deploy Lambda Function again
 on: [push]
 
 jobs:
